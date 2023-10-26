@@ -11,7 +11,7 @@ def divide(a, b):
     if b != 0:
         return a / b
     else:
-        print("Error: Cannot divide by zero.")
+        print("Error: Cannot divide by zero said mary.")
         return None
 
 def main():
